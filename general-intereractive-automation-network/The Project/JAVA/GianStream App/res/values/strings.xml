@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GianStream</string>
+    <string name="ipnotentered">Type IP address here</string>
+    <string name="portnotentered">Type Port number here</string>
+    <string name="defaultip">10.0.0.</string>
+    <string name="defaultPort">8321</string>
+</resources>
