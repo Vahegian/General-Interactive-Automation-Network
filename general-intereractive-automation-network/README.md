@@ -1,3 +1,5 @@
+#### Project was moved here from university GitLab.
+
 ### General Interactive automation network
 
 With growing number of Internet of Things “IoT” devices almost everything in our homes and offices can be automated or controlled remotely. Many big and small companies produce IoT devices and digital assistances, but not many are trying to develop a system that can communicate with all IoTs with an intent of creating a simple user interface to operate all smart devices. 
